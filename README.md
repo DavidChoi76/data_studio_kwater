@@ -1,4 +1,4 @@
-# K-water Data Studio(https://kds.kwater.or.kr/)의 Jupyter환경에서 GPU를 활용해 Deep Learning을 하는 방법 👋
+# K-water Data Studio(https://kds.kwater.or.kr/) 의 Jupyter환경에서 GPU를 활용해 Deep Learning을 하는 방법 👋
 
 🙋‍♀️ **1) 로그인은 사번을 이용하시면 됩니다.**
    
